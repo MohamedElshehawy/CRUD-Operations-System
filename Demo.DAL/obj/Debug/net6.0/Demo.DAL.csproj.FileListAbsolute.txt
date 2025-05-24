@@ -1,0 +1,12 @@
+C:\Users\OWNER\Downloads\C#\DemoMVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+C:\Users\OWNER\Downloads\C#\DemoMVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+C:\Users\OWNER\Downloads\C#\DemoMVC\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+C:\Users\OWNER\Downloads\C#\DemoMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\Downloads\C#\DemoMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+C:\Users\OWNER\Downloads\C#\DemoMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+C:\Users\OWNER\Downloads\C#\DemoMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\Downloads\C#\DemoMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+C:\Users\OWNER\Downloads\C#\DemoMVC\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+C:\Users\OWNER\Downloads\C#\DemoMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+C:\Users\OWNER\Downloads\C#\DemoMVC\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+C:\Users\OWNER\Downloads\C#\DemoMVC\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
